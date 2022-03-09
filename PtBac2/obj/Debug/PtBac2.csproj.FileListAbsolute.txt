@@ -1,0 +1,8 @@
+E:\CSharp\CSharp\PtBac2\bin\Debug\PtBac2.exe.config
+E:\CSharp\CSharp\PtBac2\bin\Debug\PtBac2.exe
+E:\CSharp\CSharp\PtBac2\bin\Debug\PtBac2.pdb
+E:\CSharp\CSharp\PtBac2\obj\Debug\PtBac2.csproj.AssemblyReference.cache
+E:\CSharp\CSharp\PtBac2\obj\Debug\PtBac2.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharp\PtBac2\obj\Debug\PtBac2.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\PtBac2\obj\Debug\PtBac2.exe
+E:\CSharp\CSharp\PtBac2\obj\Debug\PtBac2.pdb
