@@ -1,0 +1,8 @@
+E:\CSharp\CSharp\SinhVien\bin\Debug\SinhVien.exe.config
+E:\CSharp\CSharp\SinhVien\bin\Debug\SinhVien.exe
+E:\CSharp\CSharp\SinhVien\bin\Debug\SinhVien.pdb
+E:\CSharp\CSharp\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+E:\CSharp\CSharp\SinhVien\obj\Debug\SinhVien.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharp\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\SinhVien\obj\Debug\SinhVien.exe
+E:\CSharp\CSharp\SinhVien\obj\Debug\SinhVien.pdb
