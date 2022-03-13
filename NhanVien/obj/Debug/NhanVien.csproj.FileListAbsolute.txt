@@ -1,0 +1,8 @@
+E:\CSharp\CSharp\NhanVien\bin\Debug\NhanVien.exe.config
+E:\CSharp\CSharp\NhanVien\bin\Debug\NhanVien.exe
+E:\CSharp\CSharp\NhanVien\bin\Debug\NhanVien.pdb
+E:\CSharp\CSharp\NhanVien\obj\Debug\NhanVien.csproj.AssemblyReference.cache
+E:\CSharp\CSharp\NhanVien\obj\Debug\NhanVien.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharp\NhanVien\obj\Debug\NhanVien.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\NhanVien\obj\Debug\NhanVien.exe
+E:\CSharp\CSharp\NhanVien\obj\Debug\NhanVien.pdb
