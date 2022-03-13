@@ -43,10 +43,18 @@ namespace NhanVien
                    Console.WriteLine("Nhập sô lượng nhân viên Kỹ thuật");
                     int sln = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Nhap nhan vien kỹ thuât");
-                    for (int i = 0; i < sln; i++)
+                        int biendem1 = 0;
+                        for (int i = 0; i < dsNhanVien.Length; i++)
+                        {
+                            if (dsNhanVien[i] != null)
+                            {
+                                biendem1++;
+                            }
+                        }
+                        for (int i = biendem1; i < biendem1+sln; i++)
                     {
-                        dsNhanVien[i] = new NhanVienKyThuat();
-                        dsNhanVien[i].nhap();
+                        dsNhanVien[biendem1] = new NhanVienKyThuat();
+                        dsNhanVien[biendem1].nhap();
                     }
                     break;
                 case 3:
