@@ -1,0 +1,8 @@
+E:\CSharp\CSharp\Hinhhoc\bin\Debug\Hinhhoc.exe.config
+E:\CSharp\CSharp\Hinhhoc\bin\Debug\Hinhhoc.exe
+E:\CSharp\CSharp\Hinhhoc\bin\Debug\Hinhhoc.pdb
+E:\CSharp\CSharp\Hinhhoc\obj\Debug\Hinhhoc.csproj.AssemblyReference.cache
+E:\CSharp\CSharp\Hinhhoc\obj\Debug\Hinhhoc.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharp\Hinhhoc\obj\Debug\Hinhhoc.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\Hinhhoc\obj\Debug\Hinhhoc.exe
+E:\CSharp\CSharp\Hinhhoc\obj\Debug\Hinhhoc.pdb
