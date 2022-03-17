@@ -1,0 +1,16 @@
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\bin\Debug\Exam.exe.config
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\bin\Debug\Exam.exe
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\bin\Debug\Exam.pdb
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\obj\Debug\Exam.exe
+D:\FAI\SEM2\C#\Assignment\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\bin\Debug\Exam.exe.config
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\bin\Debug\Exam.exe
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\bin\Debug\Exam.pdb
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\obj\Debug\Exam.exe
+C:\Users\Admin\Desktop\New folder\Exam_NguyenVanHung\Exam\obj\Debug\Exam.pdb
