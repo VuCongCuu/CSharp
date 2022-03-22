@@ -1,0 +1,8 @@
+E:\CSharp\CSharp\Cylinder\bin\Debug\Cylinder.exe.config
+E:\CSharp\CSharp\Cylinder\bin\Debug\Cylinder.exe
+E:\CSharp\CSharp\Cylinder\bin\Debug\Cylinder.pdb
+E:\CSharp\CSharp\Cylinder\obj\Debug\Cylinder.csproj.AssemblyReference.cache
+E:\CSharp\CSharp\Cylinder\obj\Debug\Cylinder.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\CSharp\Cylinder\obj\Debug\Cylinder.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharp\Cylinder\obj\Debug\Cylinder.exe
+E:\CSharp\CSharp\Cylinder\obj\Debug\Cylinder.pdb
